@@ -14,7 +14,7 @@
 
 ## 项目形式
 
-我还是采用了 docsify+[docsify-vuepress-them](https://github.com/luvsunlight/docsify-vuepress-theme)的组合，这样可以结合 github 的开发性和 docsify 快速浏览项目的优点
+我还是采用了 docsify+[docsify-vuepress-theme](https://github.com/luvsunlight/docsify-vuepress-theme)的组合，这样可以结合 github 的开发性和 docsify 快速浏览项目的优点
 
 ## 最后
 
