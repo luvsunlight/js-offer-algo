@@ -1,6 +1,4 @@
-## js-offer-algo
-
-![]()
+![](https://s1.ax1x.com/2020/03/29/GZw1pj.md.png)
 
 > 一个 JS 版的剑指 offer 题解，[在线链接](https://luvsunlight.github.io/js-offer-algo/#/)
 
